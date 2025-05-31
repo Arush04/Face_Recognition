@@ -50,7 +50,12 @@
 ❯ cd Face_Recognition
 ```
 
-3. Run the application using:
+3. Install the dependencies:
+```sh
+❯ pip install -r requirements.txt
+```
+
+4. Run the application using:
 ```sh
 ❯ python webapp.py
 ```
